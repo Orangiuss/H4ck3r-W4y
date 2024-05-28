@@ -8,6 +8,10 @@
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
 
+***
+
+* [📖 Good Resources](good-resources.md)
+
 ## ✍️ Write-ups
 
 * [In construction..](write-ups/in-construction...md)
