@@ -10,3 +10,10 @@
 ## ✍️ Write-ups
 
 * [In construction..](write-ups/in-construction...md)
+
+## ⚙️ DevSecOps
+
+* [DAST](devsecops/dast.md)
+* [SCA](devsecops/sca.md)
+* [SAST](devsecops/sast.md)
+* [Secret Scanning](devsecops/secret-scanning.md)
