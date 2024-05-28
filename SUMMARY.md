@@ -1,16 +1,13 @@
 # Table of contents
 
 * [👾 H4ck3r W4y - Orangius's Blog](README.md)
+* [📖 Good Resources](good-resources.md)
 
 ## 🛠️ Outils créés <a href="#tools-created" id="tools-created"></a>
 
 * [🕵️ SQLTimeProbe - Exploit Time-Based SQL Injection](tools-created/sqltimeprobe-exploit-time-based-sql-injection.md)
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
-
-***
-
-* [📖 Good Resources](good-resources.md)
 
 ## ✍️ Write-ups
 
