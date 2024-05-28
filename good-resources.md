@@ -4,14 +4,31 @@ description: A lot of different best resources in cybersecurity domain
 
 # 📖 Good Resources
 
-{% embed url="https://portswigger.net/web-security" %}
-WebSecAcademy from PortSwigger
-{% endembed %}
+## Blogs
 
-{% embed url="https://book.hacktricks.xyz/" %}
-My Bible
-{% endembed %}
+* [https://book.hacktricks.xyz](https://book.hacktricks.xyz)
 
-[https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+## Practice
 
-[https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [https://portswigger.net/web-security](https://portswigger.net/web-security)
+
+## List of resources
+
+* [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+## Payloads
+
+* [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* test
+* test
+* test
+* [personnal-payloads.md](tools-created/personnal-payloads.md "mention")
+
+## Defend
+
+* Defend1
+* Defend2
+
+## Monitoring
+
+* Monitoring
