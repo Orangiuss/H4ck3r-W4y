@@ -10,3 +10,4 @@
 * **🛠️** [**Tools created**](broken-reference) **:** Essential tools to enhance your hacking arsenal.
 * **✍️** [**Write-Ups**](broken-reference)**:** In-depth analyses and explanations of various hacking challenges and Capture the Flag (CTF) competitions.
 * **⚙️** [**DevSecOps - Continuous Integration**](broken-reference)**:** Automating security checks in your CI/CD pipelines.
+* **🐞** [**Vulnerability Explanations**](broken-reference)**:** Detailed breakdowns of common vulnerabilities like XSS, XXE, and SQL Injection.

@@ -9,6 +9,15 @@
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
 
+## 🐞 Vulnerability Explanations
+
+* [SQL Injections](vulnerability-explanations/sql-injections.md)
+* [XSS](vulnerability-explanations/xss.md)
+* [XXE](vulnerability-explanations/xxe.md)
+* [SSRF](vulnerability-explanations/ssrf.md)
+* [IDOR](vulnerability-explanations/idor.md)
+* [Page](vulnerability-explanations/page.md)
+
 ## ✍️ Write-ups
 
 * [In construction..](write-ups/in-construction...md)
