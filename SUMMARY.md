@@ -8,7 +8,6 @@
 * [🕵️ SQLTimeProbe - Exploit Time-Based SQL Injection](tools-created/sqltimeprobe-exploit-time-based-sql-injection.md)
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
-* [Page](tools-created/page.md)
 
 ## 🐞 Vulnerability Explanations
 
@@ -29,3 +28,7 @@
 * [SCA](devsecops/sca.md)
 * [SAST](devsecops/sast.md)
 * [Secret Scanning](devsecops/secret-scanning.md)
+
+## Blog
+
+* [🍯 Setting Up a Honeypot 🍯 with Cowrie](blog/setting-up-a-honeypot-with-cowrie.md)

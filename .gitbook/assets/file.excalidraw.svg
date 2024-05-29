@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 596.69747598147 317.5069435455091" width="596.69747598147" height="317.5069435455091">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nM1VW0/bMFx1MDAxNH7vr6iyV1RcdTAwMTK3SVx1MDAxYd6gsFx1MDAwMdO4qJWQmHgwiZt4dezMdilcdTAwMDX1v892Q05a2k1Me1gqNfG5+PO5fD6vnW7X08uKeEddjzynmNFM4oV3YOVPRCoquFEht1ZiLlNnWWhdqaPDQ1xcVb2c6kchZr1UlGs3wkhJuFbG8LtZd7uv7r9cdTAwMDXEKCfO1klcdTAwMDEmQNvCK8FcdTAwMWRiXHUwMDEwXHUwMDA3oVx1MDAxZlwiNOg3XHUwMDE2VJ1cdTAwMWEkTTKjnmKmXGJorMj7cnpz9uPb18vH+7ubcHSL5GQ0v1x1MDAwNNQpZWysl8xcdTAwMWRIXHRcdTAwMTM36JSWYkbuaKaLt+Bb8n1eUszzglx1MDAxM2VcdTAwMDNcdTAwMGZcdTAwMWGpqHBK9dLKfL+RYp67PUDybFZcdTAwMTFcdTAwMDI/64HiZFx1MDAwYnskmJBcdTAwMTb7U0DsXHUwMDBm0Fx1MDAxZnE6y81cdTAwMTF41thoibmqsDTFXHUwMDAwu0VcdTAwMWRV2Fx1MDAxZjSygtC80PaIXHTkV1x1MDAxMZfaXHUwMDAw9eNhmKBcYo5mYaqLzFx1MDAxNfhcdTAwMDFcdTAwMTIqcUkurFx1MDAwYp8z1s5cbs/qrLw1XHUwMDAytFx1MDAwMqolK4jD2p+1WlxiXHUwMDEw5lWG1/U27Vx1MDAxMCVJXHUwMDE4R3FcdTAwMTRFjd601WxcdTAwMWKeiXS2o0WUxlKfUJ5Rnm+7XHUwMDEwnu3RMKz0SJQl1eZcdTAwMTg3gnK9beH2PZZSLFxugt/lwuy8V1fZ7YAz9oGvLjSKWzTfXHUwMDBmXHUwMDA3O61bxbWPKSt4dNrvOu/vXHUwMDE4qsmz3snQeFx1MDAxZkNRhMIkXGL70LF/XCJoUqa3xSTRx/l0fnV3vrj4eX/98n9cdTAwMTM0jsJNglx1MDAwNtFcdTAwMTb2vyPocNhcdTAwMGL75kFDNIj92Fx1MDAwN2Y2dFx1MDAxZMBparZcIt9Pglx1MDAwMUp8KMNfs3VD8SFaXHUwMDBl/YFcdTAwMGZF+Vx1MDAwMC2ngusxfbGJ70dcdTAwMWLSz7ikbLlRONejJotcdTAwMTOiWumz0mNGc+5cdTAwMDZccplutrGmZsQ1ai0q0KZcdTAwMDZcdTAwMDWbwSTfZ0VImlOO2WQnop1m581cctpDYavkirhZZ8JZ33SrTs1Zz4zOsTZ5a65FUyia1cFcdTAwMDO690TJ4uT3rdOpeWwpQ9w9u+qsflx1MDAwMb5l/GQifQ==<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@undefined/dist/excalidraw-assets/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="596.69747598147" height="317.5069435455091" fill="transparent"/><g stroke-linecap="round"><g transform="translate(30.9354949381202 93) rotate(0 267 96.5)"><path d="M-0.94 1.12 C87.95 33.47, 444.23 161.08, 533.38 192.98 M0.77 0.67 C90.05 33.32, 447.03 162.35, 535.76 194.51" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g transform="translate(174.9354949381202 30) rotate(0 44.266666412353516 22.5)"><text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="36px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">Test</text></g></svg>
