@@ -8,6 +8,7 @@
 * [🕵️ SQLTimeProbe - Exploit Time-Based SQL Injection](tools-created/sqltimeprobe-exploit-time-based-sql-injection.md)
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
+* [Page](tools-created/page.md)
 
 ## 🐞 Vulnerability Explanations
 
