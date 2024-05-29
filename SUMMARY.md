@@ -12,11 +12,11 @@
 ## 🐞 Vulnerability Explanations
 
 * [SQL Injections](vulnerability-explanations/sql-injections.md)
-* [XSS](vulnerability-explanations/xss.md)
-* [XXE](vulnerability-explanations/xxe.md)
-* [SSRF](vulnerability-explanations/ssrf.md)
+* [XSS (Cross-Site Scripting)](vulnerability-explanations/xss-cross-site-scripting.md)
+* [XXE (XML External Entity)](vulnerability-explanations/xxe-xml-external-entity.md)
+* [SSRF (Server-side Request Forgery)](vulnerability-explanations/ssrf-server-side-request-forgery.md)
 * [IDOR](vulnerability-explanations/idor.md)
-* [Page](vulnerability-explanations/page.md)
+* [CSRF (Cross-site request forgery)](vulnerability-explanations/csrf-cross-site-request-forgery.md)
 
 ## ✍️ Write-ups
 
