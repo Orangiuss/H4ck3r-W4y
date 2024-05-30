@@ -15,7 +15,3 @@ description: Welcome !
 * **🐞** [**Vulnerability Explanations**](broken-reference)**:** Detailed breakdowns of common vulnerabilities like XSS, XXE, and SQL Injection.
 
 ***
-
-### Only Open Source here !
-
-<figure><img src=".gitbook/assets/22jtxt.jpg" alt="" width="250"><figcaption><p>OpenSource Meme</p></figcaption></figure>
