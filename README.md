@@ -1,10 +1,8 @@
----
-description: Welcome !
----
+# 👾 Welcome !
 
-# 👾 H4ck3r W4y - Orangius's Blog
+<figure><img src=".gitbook/assets/H4ck3r W4y.png" alt="H4ck3r W4y" width="375"><figcaption></figcaption></figure>
 
-#### 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝖾 H4ck3r W4y - A pentester blog
+𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝖾 H4ck3r W4y - A pentester blog
 
 * **💻 Expert Tutorials:** Step-by-step guides on coding and hacking.
 * **👾 Challenges & Solutions:** Crack complex problems with our detailed walkthroughs.

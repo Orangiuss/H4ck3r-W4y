@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👾 H4ck3r W4y - Orangius's Blog](README.md)
+* [👾 Welcome !](README.md)
 * [📖 Good Resources](good-resources.md)
 
 ## 🛠️ Outils créés <a href="#tools-created" id="tools-created"></a>
