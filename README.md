@@ -1,8 +1,10 @@
+---
+description: Welcome !
+---
+
 # 👾 H4ck3r W4y - Orangius's Blog
 
 #### 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗍𝗁𝖾 H4ck3r W4y - A pentester blog
-
-
 
 * **💻 Expert Tutorials:** Step-by-step guides on coding and hacking.
 * **👾 Challenges & Solutions:** Crack complex problems with our detailed walkthroughs.
@@ -11,3 +13,9 @@
 * **✍️** [**Write-Ups**](broken-reference)**:** In-depth analyses and explanations of various hacking challenges and Capture the Flag (CTF) competitions.
 * **⚙️** [**DevSecOps - Continuous Integration**](broken-reference)**:** Automating security checks in your CI/CD pipelines.
 * **🐞** [**Vulnerability Explanations**](broken-reference)**:** Detailed breakdowns of common vulnerabilities like XSS, XXE, and SQL Injection.
+
+***
+
+### Only Open Source here !
+
+<figure><img src=".gitbook/assets/22jtxt.jpg" alt="" width="250"><figcaption><p>OpenSource Meme</p></figcaption></figure>
