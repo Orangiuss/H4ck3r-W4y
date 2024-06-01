@@ -20,6 +20,7 @@
 
 ## ✍️ Write-ups
 
+* [💉 TryHackMe -LDAP Injection](write-ups/tryhackme-ldap-injection.md)
 * [In construction..](write-ups/in-construction...md)
 
 ## ⚙️ DevSecOps
