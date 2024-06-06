@@ -11,12 +11,19 @@
 
 ## 🐞 Vulnerability Explanations
 
-* [SQL Injections](vulnerability-explanations/sql-injections.md)
-* [XSS (Cross-Site Scripting)](vulnerability-explanations/xss-cross-site-scripting.md)
+* [SQL Injections](vulnerability-explanations/sql-injections/README.md)
+  * [SQLi - UNION Attacks](vulnerability-explanations/sql-injections/sqli-union-attacks.md)
+  * [SQLi - Time Based](vulnerability-explanations/sql-injections/sqli-time-based.md)
+  * [SQLi - Error Based](vulnerability-explanations/sql-injections/sqli-error-based.md)
+  * [SQLi - Blind](vulnerability-explanations/sql-injections/sqli-blind.md)
+* [XSS (Cross-Site Scripting)](vulnerability-explanations/xss-cross-site-scripting/README.md)
+  * [XSSS (Cross Site Smallish Scripting)](vulnerability-explanations/xss-cross-site-scripting/xsss-cross-site-smallish-scripting.md)
 * [XXE (XML External Entity)](vulnerability-explanations/xxe-xml-external-entity.md)
 * [SSRF (Server-side Request Forgery)](vulnerability-explanations/ssrf-server-side-request-forgery.md)
 * [IDOR](vulnerability-explanations/idor.md)
 * [CSRF (Cross-site request forgery)](vulnerability-explanations/csrf-cross-site-request-forgery.md)
+* [LDAP Injections](vulnerability-explanations/ldap-injections.md)
+* [CSV Injections](vulnerability-explanations/csv-injections.md)
 
 ## ✍️ Write-ups
 
