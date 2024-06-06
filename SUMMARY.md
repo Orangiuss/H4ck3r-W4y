@@ -27,7 +27,12 @@
 
 ## ✍️ Write-ups
 
-* [💉 TryHackMe -LDAP Injection](write-ups/tryhackme-ldap-injection.md)
+* [🌟 TryHackMe](write-ups/tryhackme/README.md)
+  * [🆓 Free](write-ups/tryhackme/free/README.md)
+    * [In construction](write-ups/tryhackme/free/in-construction.md)
+  * [💸 Premium](write-ups/tryhackme/premium/README.md)
+    * [💉 TryHackMe -LDAP Injection](write-ups/tryhackme/premium/tryhackme-ldap-injection.md)
+    * [💉 TryHackMe - XXE Injection](write-ups/tryhackme/premium/tryhackme-xxe-injection.md)
 * [In construction..](write-ups/in-construction...md)
 
 ## ⚙️ DevSecOps

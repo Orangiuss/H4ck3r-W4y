@@ -59,15 +59,15 @@ The process is analogous to SQL Injection, where malicious SQL statements are in
 
 With the site \<IP>/normal.php we can see the LDAP Query when we try to login : &#x20;
 
-<figure><img src="../.gitbook/assets/2024-06-01_15-56 (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2024-06-01_15-56 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 We can test with \* and \* for the login/password and we get account of Bob Smith : &#x20;
 
-<figure><img src="../.gitbook/assets/2024-06-01_15-58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2024-06-01_15-58.png" alt=""><figcaption></figcaption></figure>
 
 To get the flag for the challenge we need to target a user starting with the letter f : &#x20;
 
-<figure><img src="../.gitbook/assets/flag.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/flag.png" alt=""><figcaption></figcaption></figure>
 
 ## VI - Blind LDAP Injection
 
@@ -77,13 +77,13 @@ Blind LDAP Injection requires a different approach due to the lack of explicit q
 
 When we test with username = a\*)(|($ et password = pwd) : &#x20;
 
-<figure><img src="../.gitbook/assets/2024-06-01_16-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2024-06-01_16-12.png" alt=""><figcaption></figcaption></figure>
 
 This means that a user starting with the letter a exists.
 
 We can test with ab and we can see a different error message :&#x20;
 
-<figure><img src="../.gitbook/assets/2024-06-01_16-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2024-06-01_16-28.png" alt=""><figcaption></figcaption></figure>
 
 If we test username=test and password=test we can see that it is the default error message.\
 Like that we can enumerate all the username by brute forcing through Blind LDAP Injection.
