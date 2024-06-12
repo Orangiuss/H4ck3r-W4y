@@ -29,6 +29,7 @@
 
 * [🌟 TryHackMe](write-ups/tryhackme/README.md)
   * [🆓 Free](write-ups/tryhackme/free/README.md)
+    * [🥒 TryHackMe - Pickle Rick](write-ups/tryhackme/free/tryhackme-pickle-rick.md)
     * [In construction](write-ups/tryhackme/free/in-construction.md)
   * [💸 Premium](write-ups/tryhackme/premium/README.md)
     * [💉 TryHackMe -LDAP Injection](write-ups/tryhackme/premium/tryhackme-ldap-injection.md)
