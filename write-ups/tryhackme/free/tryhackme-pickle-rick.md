@@ -16,7 +16,7 @@ Deploy the virtual machine on this task and explore the web application: 10.10.1
 
 <figure><img src="../../../.gitbook/assets/robots.txt (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/login.png" alt="" width="255"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/login (1).png" alt="" width="255"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/portal.png" alt="" width="309"><figcaption></figcaption></figure>
 
