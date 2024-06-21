@@ -70,4 +70,4 @@ And you can test the RCE on the FileManager :&#x20;
 
 If you want a cool extension to get quickly some reverse shell or others payloads this is a great tool : [https://addons.mozilla.org/fr/firefox/addon/hacktools/](https://addons.mozilla.org/fr/firefox/addon/hacktools/)
 
-We are www-data. So we search for user.txt and root.txt files.&#x20;
+We are www-data. So we search for user.txt and root.txt files and we can get the flags ;)

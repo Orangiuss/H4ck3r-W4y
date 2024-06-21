@@ -48,4 +48,5 @@
 
 * [🍯 Setting Up a Honeypot 🍯 with Cowrie](blog/setting-up-a-honeypot-with-cowrie.md)
 * [📛 HTTP2 Rapid Reset Attack: CVE-2023-44487](blog/http2-rapid-reset-attack-cve-2023-44487.md)
+* [💥 PHP CGI Argument Injection - CVE-2024-4577](blog/php-cgi-argument-injection-cve-2024-4577.md)
 * [🐢 Terrapin Attack](blog/terrapin-attack.md)
