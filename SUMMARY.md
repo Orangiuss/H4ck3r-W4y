@@ -24,6 +24,9 @@
 * [CSRF (Cross-site request forgery)](vulnerability-explanations/csrf-cross-site-request-forgery.md)
 * [LDAP Injections](vulnerability-explanations/ldap-injections.md)
 * [CSV Injections](vulnerability-explanations/csv-injections.md)
+* [Cookies/Tokens Attacks](vulnerability-explanations/cookies-tokens-attacks/README.md)
+  * [JWT Attacks](vulnerability-explanations/cookies-tokens-attacks/jwt-attacks.md)
+  * [Biscuits attacks](vulnerability-explanations/cookies-tokens-attacks/biscuits-attacks.md)
 
 ## ✍️ Write-ups
 
