@@ -27,6 +27,7 @@
 * [Cookies/Tokens Attacks](vulnerability-explanations/cookies-tokens-attacks/README.md)
   * [JWT Attacks](vulnerability-explanations/cookies-tokens-attacks/jwt-attacks.md)
   * [Biscuits attacks](vulnerability-explanations/cookies-tokens-attacks/biscuits-attacks.md)
+* [Insecure Deserialization](vulnerability-explanations/insecure-deserialization.md)
 
 ## ✍️ Write-ups
 
