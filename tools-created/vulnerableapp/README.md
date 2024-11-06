@@ -1,6 +1,6 @@
 # 🎓 VulnerableApp
 
-## PHP Application for the Top 10 OWASP 2021
+## PHP Application for the Top 10 OWASP 2021 (in French [🇫🇷](https://emojipedia.org/fr/drapeau-france))
 
 VulnerableApp is a simple PHP application developed to demonstrate and educate users on the top ten security vulnerabilities identified in OWASP’s 2021 list.
 
