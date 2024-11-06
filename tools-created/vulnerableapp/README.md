@@ -1,4 +1,8 @@
-# 🎓 VulnerableApp
+---
+icon: browser
+---
+
+# VulnerableApp
 
 ## PHP Application for the Top 10 OWASP 2021 (in French [🇫🇷](https://emojipedia.org/fr/drapeau-france))
 

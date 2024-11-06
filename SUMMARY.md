@@ -5,19 +5,20 @@
 
 ## 🛠️ Outils créés <a href="#tools-created" id="tools-created"></a>
 
+* [VulnerableApp](tools-created/vulnerableapp/README.md)
+  * [A01 - Broken Access Control](tools-created/vulnerableapp/a01-broken-access-control.md)
+  * [A02 - Cryptographic Failures](tools-created/vulnerableapp/a02-cryptographic-failures.md)
+  * [A03 - Injection](tools-created/vulnerableapp/a03-injection.md)
+  * [A04 - Insecure Design](tools-created/vulnerableapp/a04-insecure-design.md)
+  * [A05 - Security Misconfiguration](tools-created/vulnerableapp/a05-security-misconfiguration.md)
+  * [A06 - Vulnerable and Outdated Components](tools-created/vulnerableapp/a06-vulnerable-and-outdated-components.md)
+  * [A07 - Identification and Authentication Failures](tools-created/vulnerableapp/a07-identification-and-authentication-failures.md)
+  * [A08 - Lack of Data and Software Integrity](tools-created/vulnerableapp/a08-lack-of-data-and-software-integrity.md)
+  * [A09 - Lack of Control and Logging Systems](tools-created/vulnerableapp/a09-lack-of-control-and-logging-systems.md)
+  * [A10 - SSRF (Server-Side Request Forgery)](tools-created/vulnerableapp/a10-ssrf-server-side-request-forgery.md)
 * [🕵️ SQLTimeProbe - Exploit Time-Based SQL Injection](tools-created/sqltimeprobe-exploit-time-based-sql-injection.md)
 * [👁️ ScanVigil](tools-created/scanvigil.md)
 * [💥 Personnal Payloads](tools-created/personnal-payloads.md)
-* [🎓 VulnerableApp](tools-created/vulnerableapp/README.md)
-  * [A01 - Contrôles d'accès défaillants](tools-created/vulnerableapp/a01-controles-dacces-defaillants.md)
-  * [Page 2](tools-created/vulnerableapp/page-2.md)
-  * [Page 3](tools-created/vulnerableapp/page-3.md)
-  * [Page 4](tools-created/vulnerableapp/page-4.md)
-  * [Page 5](tools-created/vulnerableapp/page-5.md)
-  * [Page 6](tools-created/vulnerableapp/page-6.md)
-  * [Page 7](tools-created/vulnerableapp/page-7.md)
-  * [Page 8](tools-created/vulnerableapp/page-8.md)
-  * [Page 9](tools-created/vulnerableapp/page-9.md)
 
 ## 🐞 Vulnerability Explanations
 
